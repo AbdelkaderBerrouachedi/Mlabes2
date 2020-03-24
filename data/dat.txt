@@ -1,5 +1,0 @@
-PPML: Penalized Partial Least Squares
-Discriminant Analysis for Multi-Label Learning   all data in yahoo
-
-
-https://sourceforge.net/projects/mulan/files/datasets/
